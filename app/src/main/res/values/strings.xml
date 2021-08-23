@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="name_error">Please enter Name</string>
+    <string name="email_error">Please enter Email</string>
+    <string name="valid_email_error">Please enter valid Email</string>
+    <string name="number_error">Please enter Number</string>
+    <string name="valid_number_error">Please enter valid Number</string>
+</resources>
